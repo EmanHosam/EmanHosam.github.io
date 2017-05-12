@@ -1,0 +1,60 @@
+ul{
+    list-style-type:none;
+    text-align: left;
+}
+#cartIA{
+    position: absolute;
+    top:55%;
+    right: 20%;
+}
+.imgSize{
+    height: 46px;
+    width: 46px;
+    margin: 5px;
+}
+#socialMedia{
+    padding: 60px;
+    
+}
+/*#up{
+    padding-top: 60px;
+    padding-left: 200px;
+}*/
+.center{
+    text-align: center;
+}
+#foot{
+    position: static;
+    bottom: 0;
+    height: 200px;
+}
+#copyright{
+    padding-top: 160px;
+    
+}
+.section{
+    
+    border: 0px solid transparent;
+    background-color: #f8f8f8;
+    height: 450px;
+    margin: 5px;
+    text-align: center;
+}
+.sectioncontent{
+   margin-top: 100%;
+}
+#wholesection{
+    margin-bottom: 50px;
+}
+.element{
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left:28px;
+    margin-right: 28px;
+}
+.section >img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
